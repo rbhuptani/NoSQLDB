@@ -1,0 +1,22 @@
+D:\Study\SMA\ProhectStarter\XMLFactory\bin\Debug\XMLFactory.exe.config
+D:\Study\SMA\ProhectStarter\XMLFactory\bin\Debug\XMLFactory.exe
+D:\Study\SMA\ProhectStarter\XMLFactory\bin\Debug\XMLFactory.pdb
+D:\Study\SMA\ProhectStarter\XMLFactory\obj\Debug\XMLFactory.csprojResolveAssemblyReference.cache
+D:\Study\SMA\ProhectStarter\XMLFactory\obj\Debug\XMLFactory.exe
+D:\Study\SMA\ProhectStarter\XMLFactory\obj\Debug\XMLFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\bin\Debug\XMLFactory.exe.config
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\bin\Debug\XMLFactory.exe
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\bin\Debug\XMLFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\obj\Debug\XMLFactory.csprojResolveAssemblyReference.cache
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\obj\Debug\XMLFactory.exe
+D:\Study\SMA\New folder\ProhectStarter\XMLFactory\obj\Debug\XMLFactory.pdb
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\bin\Debug\XMLFactory.exe.config
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\bin\Debug\XMLFactory.exe
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\bin\Debug\XMLFactory.pdb
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\obj\Debug\XMLFactory.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\obj\Debug\XMLFactory.exe
+D:\Study\SMA\Project 2\NoSQLDB\XMLFactory\obj\Debug\XMLFactory.pdb

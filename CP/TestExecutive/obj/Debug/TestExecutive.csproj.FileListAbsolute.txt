@@ -1,0 +1,14 @@
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\TestExecutive.exe.config
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\TestExecutive.exe
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\TestExecutive.pdb
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\Utilities.exe
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\XMLFactory.exe
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\ICommService.dll
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\XMLFactory.pdb
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\Utilities.pdb
+D:\Study\SMA\Project 4\CP\TestExecutive\bin\Debug\ICommService.pdb
+D:\Study\SMA\Project 4\CP\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 4\CP\TestExecutive\obj\Debug\TestExecutive.exe
+D:\Study\SMA\Project 4\CP\TestExecutive\obj\Debug\TestExecutive.pdb

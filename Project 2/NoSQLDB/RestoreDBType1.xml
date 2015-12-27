@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--type of this file was not mentioned in crreate function.-->
+<nosqldb>
+  <keytype>int</keytype>
+  <payloadtype>string</payloadtype>
+  <item key="21">
+    <key>21</key>
+    <element>
+      <name>element 21</name>
+      <description>test element 21</description>
+      <timestamp>10/6/2015 4:34:53 PM</timestamp>
+      <children>
+        <key>1</key>
+        <key>2</key>
+        <key>3</key>
+      </children>
+      <categories />
+      <payload>elem21's payload</payload>
+    </element>
+  </item>
+  <item key="23">
+    <key>23</key>
+    <element>
+      <name>metadata 23</name>
+      <description>description in type 23</description>
+      <timestamp>10/6/2015 4:35:36 PM</timestamp>
+      <children>
+        <key>41</key>
+        <key>20</key>
+      </children>
+      <categories />
+      <payload>new payload in type 1</payload>
+    </element>
+  </item>
+  <item key="20">
+    <key>20</key>
+    <element>
+      <name>Twenty</name>
+      <description>Description 20</description>
+      <timestamp>10/6/2015 4:35:37 PM</timestamp>
+      <children>
+        <key>11</key>
+        <key>7</key>
+      </children>
+      <categories />
+      <payload>payload of element 20</payload>
+    </element>
+  </item>
+</nosqldb>

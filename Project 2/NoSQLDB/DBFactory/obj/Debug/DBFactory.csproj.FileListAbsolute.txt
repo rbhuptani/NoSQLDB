@@ -1,0 +1,36 @@
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\DBFactory.exe.config
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\DBFactory.exe
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\DBFactory.pdb
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\DBElement.exe
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\DBEngine.exe
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\DBElement.pdb
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\DBEngine.pdb
+D:\Study\SMA\ProhectStarter\DBFactory\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\ProhectStarter\DBFactory\obj\Debug\DBFactory.csprojResolveAssemblyReference.cache
+D:\Study\SMA\ProhectStarter\DBFactory\obj\Debug\DBFactory.exe
+D:\Study\SMA\ProhectStarter\DBFactory\obj\Debug\DBFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\DBFactory.exe.config
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\DBFactory.exe
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\DBFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\DBElement.exe
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\DBEngine.exe
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\DBElement.pdb
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\DBEngine.pdb
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\obj\Debug\DBFactory.csprojResolveAssemblyReference.cache
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\obj\Debug\DBFactory.exe
+D:\Study\SMA\New folder\ProhectStarter\DBFactory\obj\Debug\DBFactory.pdb
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\DBFactory.exe.config
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\DBFactory.exe
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\DBFactory.pdb
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\DBElement.exe
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\DBEngine.exe
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\DBElement.pdb
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\DBEngine.pdb
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\obj\Debug\DBFactory.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\obj\Debug\DBFactory.exe
+D:\Study\SMA\Project 2\NoSQLDB\DBFactory\obj\Debug\DBFactory.pdb

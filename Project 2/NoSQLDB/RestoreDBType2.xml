@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--type of this file was not mentioned in crreate function.-->
+<nosqldb>
+  <keytype>string</keytype>
+  <payloadtype>listofstring</payloadtype>
+  <item key="keynum11">
+    <key>keynum11</key>
+    <element>
+      <name>element11</name>
+      <description>test element11</description>
+      <timestamp>10/6/2015 4:34:53 PM</timestamp>
+      <children>
+        <key>key1</key>
+        <key>c2</key>
+      </children>
+      <categories />
+      <payload>
+        <data>payload 1, payload 2, payload 3</data>
+      </payload>
+    </element>
+  </item>
+  <item key="skey49">
+    <key>skey49</key>
+    <element>
+      <name>skey49 in type 2</name>
+      <description>skey49 description in type 2</description>
+      <timestamp>10/6/2015 4:35:36 PM</timestamp>
+      <children />
+      <categories />
+      <payload>
+        <data>skey49 payload in type 2, payload skey49 item 2</data>
+      </payload>
+    </element>
+  </item>
+  <item key="skey199">
+    <key>skey199</key>
+    <element>
+      <name>elemskey199</name>
+      <description>description 199</description>
+      <timestamp>10/6/2015 4:35:37 PM</timestamp>
+      <children />
+      <categories />
+      <payload>
+        <data>alpha</data>
+        <data>beta</data>
+        <data>gamma</data>
+      </payload>
+    </element>
+  </item>
+</nosqldb>

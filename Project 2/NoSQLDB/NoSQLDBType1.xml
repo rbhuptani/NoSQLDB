@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--type of this file was not mentioned in crreate function.-->
+<nosqldb>
+  <keytype>int</keytype>
+  <payloadtype>string</payloadtype>
+  <item key="1">
+    <key>1</key>
+    <element>
+      <name>editedmetadata in type 1</name>
+      <description>edited description in type 1</description>
+      <timestamp>10/7/2015 7:17:42 PM</timestamp>
+      <children>
+        <key>4</key>
+        <key>10</key>
+      </children>
+      <categories />
+      <payload>new payload in type 1</payload>
+    </element>
+  </item>
+  <item key="20">
+    <key>20</key>
+    <element>
+      <name>Luke Skywalker</name>
+      <description>Young HotShot</description>
+      <timestamp>10/7/2015 7:17:42 PM</timestamp>
+      <children>
+        <key>1</key>
+        <key>5</key>
+        <key>23</key>
+      </children>
+      <categories />
+      <payload>X-Wing fighter in swamp - Oh oh!</payload>
+    </element>
+  </item>
+</nosqldb>

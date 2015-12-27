@@ -1,0 +1,54 @@
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\QueryEngine.exe.config
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\QueryEngine.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\QueryEngine.pdb
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBElement.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBEngine.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBExtensions.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBElement.pdb
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBEngine.pdb
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBExtensions.pdb
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\ProhectStarter\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+D:\Study\SMA\ProhectStarter\QueryEngine\obj\Debug\QueryEngine.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\obj\Debug\QueryEngine.pdb
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\Display.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\Display.pdb
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBFactory.exe
+D:\Study\SMA\ProhectStarter\QueryEngine\bin\Debug\DBFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\QueryEngine.exe.config
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\QueryEngine.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\QueryEngine.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBElement.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBEngine.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBExtensions.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBFactory.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\Display.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBElement.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBEngine.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBExtensions.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\DBFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\Display.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\obj\Debug\QueryEngine.exe
+D:\Study\SMA\New folder\ProhectStarter\QueryEngine\obj\Debug\QueryEngine.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\QueryEngine.exe.config
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\QueryEngine.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\QueryEngine.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBElement.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBEngine.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBExtensions.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBFactory.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\Display.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBElement.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBEngine.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBExtensions.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\DBFactory.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\Display.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\obj\Debug\QueryEngine.exe
+D:\Study\SMA\Project 2\NoSQLDB\QueryEngine\obj\Debug\QueryEngine.pdb

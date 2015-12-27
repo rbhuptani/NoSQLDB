@@ -1,0 +1,16 @@
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBFactoryTest.exe.config
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBFactoryTest.exe
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBFactoryTest.pdb
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBElement.exe
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBEngine.exe
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBExtensions.exe
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBFactory.exe
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBElement.pdb
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBEngine.pdb
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBExtensions.pdb
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\DBFactory.pdb
+D:\Study\SMA\ProhectStarter\DBFactoryTest\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\ProhectStarter\DBFactoryTest\obj\Debug\DBFactoryTest.csprojResolveAssemblyReference.cache
+D:\Study\SMA\ProhectStarter\DBFactoryTest\obj\Debug\DBFactoryTest.exe
+D:\Study\SMA\ProhectStarter\DBFactoryTest\obj\Debug\DBFactoryTest.pdb

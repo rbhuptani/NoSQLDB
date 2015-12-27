@@ -1,0 +1,40 @@
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\Scheduler.exe.config
+D:\Study\SMA\ProhectStarter\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\Scheduler.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\Scheduler.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\obj\Debug\Scheduler.exe
+D:\Study\SMA\ProhectStarter\Scheduler\obj\Debug\Scheduler.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBElement.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBEngine.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\PersistEngine.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\XMLFactory.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBExtensions.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBElement.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBEngine.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\PersistEngine.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\XMLFactory.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBExtensions.pdb
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBFactory.exe
+D:\Study\SMA\ProhectStarter\Scheduler\bin\Debug\DBFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\Scheduler.exe.config
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\Scheduler.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\Scheduler.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBElement.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBEngine.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\PersistEngine.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\XMLFactory.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBExtensions.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBFactory.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBElement.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBEngine.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\PersistEngine.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\XMLFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBExtensions.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\bin\Debug\DBFactory.pdb
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\obj\Debug\Scheduler.exe
+D:\Study\SMA\New folder\ProhectStarter\Scheduler\obj\Debug\Scheduler.pdb

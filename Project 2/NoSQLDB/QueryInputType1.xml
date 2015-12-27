@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--type of this file was not mentioned in crreate function.-->
+<nosqldb>
+  <keytype>int</keytype>
+  <payloadtype>string</payloadtype>
+  <item key="12">
+    <key>12</key>
+    <element>
+      <name>meacba2</name>
+      <description>undescribed</description>
+      <timestamp>10/2/2014 12:32:11 AM</timestamp>
+      <children>
+        <key>3</key>
+        <key>4</key>
+      </children>
+	  <categories/>
+      <payload>a payload of elem 2</payload>
+    </element>
+  </item>
+  <item key="11">
+    <key>11</key>
+    <element>
+      <name>metadata1</name>
+      <description>undescribed</description>
+      <timestamp>10/2/2013 12:32:11 AM</timestamp>
+      <children>
+        <key>2</key>
+        <key>3</key>
+        <key>4</key>
+      </children>
+	  <categories/>
+      <payload>a payload of elem 1</payload>
+    </element>
+  </item>
+  <item key="13">
+    <key>13</key>
+    <element>
+      <name>metaabca3</name>
+      <description>undescribed</description>
+      <timestamp>10/2/2015 12:32:11 AM</timestamp>
+      <children>
+        <key>5</key>
+        <key>9</key>
+      </children>
+	  <categories/>
+      <payload>a payload of elem 3</payload>
+    </element>
+  </item>
+</nosqldb>

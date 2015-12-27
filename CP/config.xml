@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<server>
+		<local_address>localhost</local_address>
+		<local_port>8081</local_port>
+	</server>
+	<wpfclient>
+		<local_port>8089</local_port>
+	</wpfclient>
+	<readclients>
+		<num_of_readclients>2</num_of_readclients>
+		<local_port>8091</local_port>
+		<no_log>false</no_log>
+		<dbtype>listofstring</dbtype>
+		<num_of_msgs>10</num_of_msgs>
+	</readclients>
+	<writeclients>
+		<num_of_writeclients>2</num_of_writeclients>
+		<local_port>7081</local_port>
+		<no_log>false</no_log>
+		<dbtype>listofstring</dbtype>
+		<num_of_adds>10</num_of_adds>
+		<num_of_edits>10</num_of_edits>
+		<num_of_deletes>10</num_of_deletes>
+	</writeclients>
+</configuration>

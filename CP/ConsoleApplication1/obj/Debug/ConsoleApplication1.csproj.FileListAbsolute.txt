@@ -1,0 +1,6 @@
+D:\Study\SMA\Project 4\CP\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Study\SMA\Project 4\CP\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Study\SMA\Project 4\CP\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Study\SMA\Project 4\CP\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 4\CP\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Study\SMA\Project 4\CP\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

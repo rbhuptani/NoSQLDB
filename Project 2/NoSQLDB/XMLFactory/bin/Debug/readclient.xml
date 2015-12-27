@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<client_message>
+  <client_type>read</client_type>
+  <client_address>address</client_address>
+  <num_of_messages>18</num_of_messages>
+  <message id="57747">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 1</param>
+      <param name="input1">key</param>
+    </parameters>
+  </message>
+  <message id="24425">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 1</param>
+      <param name="input1">key</param>
+    </parameters>
+  </message>
+  <message id="3869">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 1</param>
+      <param name="input1">key</param>
+    </parameters>
+  </message>
+  <message id="30225">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 2</param>
+      <param name="input1">type2</param>
+    </parameters>
+  </message>
+  <message id="58404">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 2</param>
+      <param name="input1">type2</param>
+    </parameters>
+  </message>
+  <message id="33237">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 2</param>
+      <param name="input1">type2</param>
+    </parameters>
+  </message>
+  <message id="28649">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 3</param>
+      <param name="input1">type3</param>
+    </parameters>
+  </message>
+  <message id="45221">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 3</param>
+      <param name="input1">type3</param>
+    </parameters>
+  </message>
+  <message id="37361">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 3</param>
+      <param name="input1">type3</param>
+    </parameters>
+  </message>
+  <message id="2683">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 4</param>
+      <param name="input1">type4</param>
+    </parameters>
+  </message>
+  <message id="47084">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 4</param>
+      <param name="input1">type4</param>
+    </parameters>
+  </message>
+  <message id="25581">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 4</param>
+      <param name="input1">type4</param>
+    </parameters>
+  </message>
+  <message id="22402">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 5</param>
+      <param name="input1">type5</param>
+    </parameters>
+  </message>
+  <message id="37838">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 5</param>
+      <param name="input1">type5</param>
+    </parameters>
+  </message>
+  <message id="8307">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 5</param>
+      <param name="input1">type5</param>
+    </parameters>
+  </message>
+  <message id="27643">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 5</param>
+      <param name="input1">type6</param>
+      <param name="input2">type7</param>
+    </parameters>
+  </message>
+  <message id="18003">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 5</param>
+      <param name="input1">type6</param>
+      <param name="input2">type7</param>
+    </parameters>
+  </message>
+  <message id="11346">
+    <command>query</command>
+    <parameters>
+      <param name="type">type 5</param>
+      <param name="input1">type6</param>
+      <param name="input2">type7</param>
+    </parameters>
+  </message>
+</client_message>

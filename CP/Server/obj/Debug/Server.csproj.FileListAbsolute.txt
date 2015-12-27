@@ -1,0 +1,207 @@
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-20-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-22-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\jfawc\Desktop\CommPrototype-b-22-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-23-Oct-2015\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-24-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-25-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Sender.exe
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\BlockingQueue.dll
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Sender.pdb
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\jfawc\Desktop\CommPrototype-25-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-26-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Server.exe.config
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\obj\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\obj\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Server.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Server.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Server.exe.config
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Server.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Server.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBElement.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBEngine.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBExtensions.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBFactory.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Display.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\ICommService.dll
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\PersistEngine.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\QueryEngine.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Receiver.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Sender.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\TestTimer.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Utilities.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\UtilityExtensions.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\XMLFactory.exe
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\CommService.dll
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\BlockingQueue.dll
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBElement.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBEngine.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBExtensions.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\DBFactory.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Display.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\PersistEngine.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\QueryEngine.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\UtilityExtensions.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\XMLFactory.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\TestTimer.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\ICommService.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Receiver.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Sender.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\Utilities.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\CommService.pdb
+D:\Study\SMA\Project 4\CP\Server\bin\Debug\BlockingQueue.pdb
+D:\Study\SMA\Project 4\CP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 4\CP\Server\obj\Debug\Server.exe
+D:\Study\SMA\Project 4\CP\Server\obj\Debug\Server.pdb

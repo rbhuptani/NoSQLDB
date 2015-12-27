@@ -1,0 +1,30 @@
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\obj\Debug\MakeMessage.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\bin\Debug\MakeMessage.exe.config
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\bin\Debug\MakeMessage.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\bin\Debug\MakeMessage.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\obj\Debug\MakeMessage.exe
+C:\Users\James\Desktop\CommPrototype-28-Oct-2015\MakeMessage\obj\Debug\MakeMessage.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\bin\Debug\MakeMessage.exe.config
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\obj\Debug\MakeMessage.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\obj\Debug\MakeMessage.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\bin\Debug\MakeMessage.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\bin\Debug\MakeMessage.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\MakeMessage\obj\Debug\MakeMessage.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 4\CP\MakeMessage\bin\Debug\MakeMessage.exe.config
+D:\Study\SMA\Project 4\CP\MakeMessage\bin\Debug\MakeMessage.exe
+D:\Study\SMA\Project 4\CP\MakeMessage\bin\Debug\MakeMessage.pdb
+D:\Study\SMA\Project 4\CP\MakeMessage\bin\Debug\ICommService.dll
+D:\Study\SMA\Project 4\CP\MakeMessage\bin\Debug\Utilities.exe
+D:\Study\SMA\Project 4\CP\MakeMessage\bin\Debug\ICommService.pdb
+D:\Study\SMA\Project 4\CP\MakeMessage\bin\Debug\Utilities.pdb
+D:\Study\SMA\Project 4\CP\MakeMessage\obj\Debug\MakeMessage.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 4\CP\MakeMessage\obj\Debug\MakeMessage.exe
+D:\Study\SMA\Project 4\CP\MakeMessage\obj\Debug\MakeMessage.pdb

@@ -1,0 +1,36 @@
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\SimpleServer.exe.config
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\SimpleServer.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\SimpleServer.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\ICommService.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\Receiver.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\Sender.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\Utilities.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\CommService.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\BlockingQueue.dll
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\ICommService.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\Receiver.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\Sender.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\Utilities.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\CommService.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\bin\Debug\BlockingQueue.pdb
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\obj\Debug\SimpleServer.exe
+C:\Users\James\Desktop\CommPrototype-29-Oct-2015\SimpleServer\obj\Debug\SimpleServer.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\SimpleServer.exe.config
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\SimpleServer.exe
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\SimpleServer.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\ICommService.dll
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\Receiver.exe
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\Sender.exe
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\Utilities.exe
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\CommService.dll
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\BlockingQueue.dll
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\ICommService.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\Receiver.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\Sender.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\Utilities.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\CommService.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\bin\Debug\BlockingQueue.pdb
+D:\Study\SMA\Project 4\CP\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache
+D:\Study\SMA\Project 4\CP\SimpleServer\obj\Debug\SimpleServer.exe
+D:\Study\SMA\Project 4\CP\SimpleServer\obj\Debug\SimpleServer.pdb

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!--package structure of NOSQLDB project.-->
+ <nosqldb>
+  <keytype>int</keytype>
+  <payloadtype>string</payloadtype>
+  <item key="1">
+    <key>1</key>
+    <element>
+      <name>DBElement </name>
+      <description>This package implements the DBElement "Key", "Data type" </description>
+      <timestamp>10/5/2015 12:04:04 PM </timestamp>
+      <children>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>DBElement </payload>
+    </element>
+  </item>
+  <item key="2">
+    <key>2</key>
+    <element>
+      <name>DBElementTest </name>
+      <description>This package replaces DBElement test stub to remove circular package references. </description>
+      <timestamp>10/5/2015 12:04:04 PM</timestamp>
+      <children>
+        <key>1</key>
+        <key>7</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>DBElementTest </payload>
+    </element>
+  </item>
+  <item key="3">
+    <key>3</key>
+    <element>
+      <name>DBEngine </name>
+      <description>This package implements DBEngine "Key, Value" where Value is the DBElement "key, Data" type. </description>
+      <timestamp>10/5/2015 12:04:04 PM </timestamp>
+      <children>
+        <key>1</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>DBEngine </payload>
+    </element>
+  </item>
+  <item key="4">
+    <key>4</key>
+    <element>
+      <name>DBEngineTest </name>
+      <description>This package replaces DBEngine test stub to remove circular package references. </description>
+      <timestamp>10/5/2015 12:04:04 PM</timestamp>
+      <children>
+        <key>1</key>
+        <key>3</key>
+		<key>7</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>DBEngineTest </payload>
+    </element>
+  </item>
+  <item key="5">
+  <key>5</key>
+    <element>
+      <name>DBFactory </name>
+      <description>This package implements DBFactory "Key, Value" where Value is the DBElement "key, Data" type. </description>
+      <timestamp>10/5/2015 12:04:04 PM </timestamp>
+      <children>
+        <key>1</key>
+        <key>3</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>DBFactory </payload>
+    </element>
+  </item>
+  <item key="6">
+    <key>6</key>
+    <element>
+      <name>DBFactoryTest </name>
+      <description>This package replaces DBFactory test stub to remove circular package references. </description>
+      <timestamp>10/5/2015 12:04:04 PM</timestamp>
+      <children>
+        <key>1</key>
+		<key>3</key>
+        <key>5</key>
+		<key>7</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>DBFactoryTest </payload>
+    </element>
+  </item>
+  <item key="7">
+    <key>7</key>
+    <element>
+      <name>DBExtensions </name>
+      <description>This package implements extensions methods to support displaying DBElements and DBEngine instances. </description>
+      <timestamp>10/5/2015 12:04:04 PM </timestamp>
+      <children>
+        <key>1</key>
+        <key>3</key>
+        <key>5</key>
+		<key>13</key>
+      </children>
+	  <categories />
+      <payload>DBExtensions </payload>
+    </element>
+  </item>
+  <item key="8">
+    <key>8</key>
+    <element>
+      <name>Display </name>
+      <description>This package implements formatting functions and tests them along with DBExtensions. </description>
+      <timestamp>10/5/2015 12:04:04 PM</timestamp>
+      <children>
+        <key>1</key>
+		<key>3</key>
+        <key>5</key>
+		<key>7</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>Display </payload>
+    </element>
+  </item>
+  <item key="9">
+    <key>9</key>
+    <element>
+      <name>PersistEngine </name>
+      <description>This package implements persisting of database to XML file. </description>
+      <timestamp>10/5/2015 12:04:04 PM </timestamp>
+      <children>
+		<key>1</key>
+		<key>3</key>
+        <key>5</key>
+		<key>7</key>
+        <key>12</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>PersistEngine </payload>
+    </element>
+  </item>
+  <item key="10">
+    <key>10</key>
+    <element>
+      <name>QueryEngine </name>
+      <description>This package implements query functions and tests them. </description>
+      <timestamp>10/5/2015 12:04:04 PM</timestamp>
+      <children>
+        <key>1</key>
+		<key>3</key>
+        <key>5</key>
+		<key>7</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>QueryEngine </payload>
+    </element>
+  </item>
+  <item key="11">
+    <key>11</key>
+    <element>
+      <name>Scheduler </name>
+      <description>This package sets scheduler to persist database after positive time interval. </description>
+      <timestamp>10/5/2015 12:04:04 PM </timestamp>
+      <children>
+        <key>1</key>
+		<key>3</key>
+        <key>9</key>
+      </children>
+	  <categories />
+      <payload>Scheduler </payload>
+    </element>
+  </item>
+  <item key="12">
+    <key>12</key>
+    <element>
+      <name>XMLFactory </name>
+      <description>This package will help PersistEngine to persist database into xml file. </description>
+      <timestamp>10/5/2015 12:04:04 PM</timestamp>
+      <children>
+        <key>13</key>
+	  </children>
+	  <categories />
+      <payload>XMLFactory </payload>
+    </element>
+  </item>
+  <item key="13">
+  <key>13</key>
+    <element>
+      <name>UtilityExtensions </name>
+      <description>This package implements utility extensions that are not specific to a single package. </description>
+      <timestamp>10/5/2015 12:04:04 PM </timestamp>
+      <children />
+	  <categories />
+      <payload>UtilityExtensions </payload>
+    </element>
+  </item>
+  <item key="14">
+    <key>14</key>
+    <element>
+      <name>TestExec </name>
+      <description>This package begins the demonstration of meeting requirements. </description>
+      <timestamp>10/5/2015 12:04:04 PM</timestamp>
+      <children>
+        <key>1</key>
+		<key>3</key>
+        <key>5</key>
+		<key>7</key>
+		<key>8</key>
+		<key>9</key>
+		<key>10</key>
+		<key>11</key>
+        <key>13</key>
+      </children>
+	  <categories />
+      <payload>TestExec </payload>
+    </element>
+  </item>
+</nosqldb>
+ 
+ 

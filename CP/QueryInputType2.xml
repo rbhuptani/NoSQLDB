@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--type of this file was not mentioned in crreate function.-->
+<nosqldb>
+  <keytype>string</keytype>
+  <payloadtype>listofstring</payloadtype>
+  <item key="keykey">
+    <key>keykey</key>
+    <element>
+      <name>sxyasz</name>
+      <description>undescribed</description>
+      <timestamp>10/2/2014 12:32:11 AM</timestamp>
+      <children>
+        <key>c10</key>
+        <key>c53</key>
+        <key>c41</key>
+      </children>
+	  <categories/>
+      <payload>
+        <data>p21</data>
+        <data>p22</data>
+        <data>p23</data>
+      </payload>
+    </element>
+  </item>
+  <item key="12key12">
+    <key>12key12</key>
+    <element>
+      <name>metxyzsd</name>
+      <description>undescribed</description>
+      <timestamp>10/2/2013 12:32:11 AM</timestamp>
+      <children>
+        <key>c2</key>
+        <key>c3</key>
+        <key>c4</key>
+      </children>
+	  <categories/>
+      <payload>
+        <data>p11</data>
+        <data>p12</data>
+        <data>p13</data>
+      </payload>
+    </element>
+  </item>
+  <item key="10asf">
+    <key>10asf</key>
+    <element>
+      <name>xyz</name>
+      <description>undescribed</description>
+      <timestamp>10/2/2015 12:32:11 AM</timestamp>
+      <children>
+        <key>c122</key>
+        <key>c331</key>
+        <key>c124</key>
+      </children>
+	  <categories/>
+      <payload>
+        <data>p31</data>
+        <data>p32</data>
+        <data>p33</data>
+      </payload>
+    </element>
+  </item>
+  <item key="10ke2134y">
+    <key>10ke2134y</key>
+    <element>
+      <name>abcxyz</name>
+      <description>undescribed</description>
+      <timestamp>10/2/2016 12:32:11 AM</timestamp>
+      <children>
+        <key>c253</key>
+        <key>c312</key>
+        <key>c424</key>
+      </children>
+	  <categories/>
+      <payload>
+        <data>p41</data>
+        <data>p42</data>
+        <data>p43</data>
+      </payload>
+    </element>
+  </item>
+</nosqldb>
